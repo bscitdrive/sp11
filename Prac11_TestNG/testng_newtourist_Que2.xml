@@ -1,0 +1,7 @@
+<suite name="New Tours Regression Suite" verbose="1">
+    <test name="Login Functionality Test">
+        <classes>
+            <class name="Shariq_Que2.NewTouristLoginTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [New Tours Regression Suite]">
+  <test thread-count="5" name="Login Functionality Test(failed)">
+    <classes>
+      <class name="Shariq_Que2.NewTouristLoginTest">
+        <methods>
+          <include name="verifyLoginFunctionality"/>
+        </methods>
+      </class> <!-- Shariq_Que2.NewTouristLoginTest -->
+    </classes>
+  </test> <!-- Login Functionality Test(failed) -->
+</suite> <!-- Failed suite [New Tours Regression Suite] -->

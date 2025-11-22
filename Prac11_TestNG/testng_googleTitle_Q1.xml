@@ -1,0 +1,7 @@
+<suite name="Assertions suite">
+	<test name="Assertions title test">
+		<classes>
+			<class name="Que1.GoogleTitleTest"></class>
+		</classes>
+	</test>
+</suite>
