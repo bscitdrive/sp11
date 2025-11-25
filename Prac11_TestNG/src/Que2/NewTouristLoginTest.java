@@ -1,3 +1,9 @@
+/*
+2.	You have an existing suite of tests for an New Tour application
+(https://demo.guru99.com/test/newtours/). After a recent update, you need
+to implement regression tests to ensure that the login process continues
+to work as expected.
+*/
 package Que2;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
